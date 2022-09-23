@@ -7,6 +7,9 @@ TagManager:
   - Plata
   - Oro
   - Enemigo
+  - Bala1
+  - Bala2
+  - Bala3
   layers:
   - Default
   - TransparentFX
@@ -14,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Suelo
   - 
   - 
   - 
